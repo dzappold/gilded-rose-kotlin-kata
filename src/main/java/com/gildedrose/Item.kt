@@ -19,6 +19,3 @@ data class Item(
 
     override fun toString() = "$name, $sellIn, $quality"
 }
-
-
-
